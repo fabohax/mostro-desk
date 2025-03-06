@@ -1,7 +1,5 @@
 # Mostro Desktop Client
 
-## Mostro Logo
-
 The **Mostro Desktop Client** is a graphical user interface (GUI) application for interacting with the Mostro Protocol, a decentralized, peer-to-peer Bitcoin exchange platform built on the Lightning Network and integrated with Nostr. This client aims to provide a user-friendly way to log in, manage seed phrases, and eventually perform Bitcoin trades securely and privately, all while maintaining the censorship-resistant and privacy-focused ethos of the Mostro Protocol.
 
 This project is in early development and currently focuses on a basic login interface. Future updates will expand functionality to include trading and additional features aligned with Mostro’s goals.
