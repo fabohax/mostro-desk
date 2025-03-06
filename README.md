@@ -14,7 +14,7 @@ This project is in early development and currently focuses on a basic login inte
 #### Clone the Repository:
 ```bash
 git clone https://github.com/fabohax/mostro-desk.git
-cd mostro-desktop
+cd mostro-desk
 ```
 
 #### Install Dependencies:
@@ -26,16 +26,6 @@ cargo build
 #### Run the Application:
 ```bash
 cargo run
-```
-
-## Dependencies
-
-The project uses `iced`, a cross-platform GUI library for Rust.
-
-Add to your `Cargo.toml`:
-```toml
-[dependencies]
-iced = "0.12"
 ```
 
 ## Roadmap
